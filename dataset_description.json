@@ -1,0 +1,13 @@
+{
+  "Name": "Blink-Pause-Relation (Competing Speaker Paradigm)",
+  "BIDSVersion": "v5.2",
+  "License": "Creative commons",
+  "Authors": [
+    "Bjoern Holtze",
+    "Marc Rosenkranz",
+    "Martin Bleichner",
+    "Stefan Debener"
+  ],
+  "ReferencesAndLinks": ["tba"],
+  "DatasetDOI": "tba"
+}
